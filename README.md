@@ -24,3 +24,8 @@
   ```sh
   $ docker compose exec web rails db:migrate
   ```
+
+## rubocop
+  ```sh
+  $ docker compose exec web bundle exec rubocop -A
+  ```
