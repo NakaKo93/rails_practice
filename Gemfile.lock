@@ -268,6 +268,7 @@ DEPENDENCIES
   rails (~> 8.0, >= 8.0.1)
   rubocop
   rubocop-github
+  rubocop-rails
   sprockets-rails (~> 3.4)
 
 BUNDLED WITH
