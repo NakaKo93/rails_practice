@@ -11,3 +11,5 @@ gem "sprockets-rails", "~> 3.4"
 gem "pg", "~> 1.4"
 gem "importmap-rails"
 gem "brakeman", require: false
+
+gem "bcrypt", "~> 3.1"
