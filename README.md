@@ -29,3 +29,7 @@
   ```sh
   $ docker compose exec web bundle exec rubocop -A
   ```
+## 脆弱性分析
+  ```sh
+$ docker compose exec web bin/brakeman
+  ```
