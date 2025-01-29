@@ -13,3 +13,4 @@ gem "importmap-rails"
 gem "brakeman", require: false
 
 gem "bcrypt", "~> 3.1"
+gem "hotwire-rails"
