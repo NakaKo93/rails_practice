@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-gem "rails", "~> 8.0", ">= 8.0.1"
+gem "rails", "~> 8.0"
 gem "rubocop", require: false
 gem "rubocop-github", require: false
 gem "rubocop-rails", require: false
